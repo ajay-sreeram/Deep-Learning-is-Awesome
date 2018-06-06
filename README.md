@@ -42,7 +42,7 @@
 |NLP|Spell Checker using word vectors | [Code](https://github.com/er214/spellchecker) | [Article](https://blog.usejournal.com/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26)|
 |NLP|Learn to Write Programs|[Code](https://github.com/dkamm/deepcoder)|[Paper](https://openreview.net/pdf?id=ByldLrqlx)|
 |NLP|URLNet| [Code](https://github.com/Antimalweb/URLNet)|[Paper](https://arxiv.org/abs/1802.03162)|
-|Image|UNet|[Code](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118)|[Paper](https://arxiv.org/pdf/1611.08303.pdf)|
+|Image|UNet based nucleus detection|[Code](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118)|[Paper](https://arxiv.org/pdf/1611.08303.pdf)|
 |NLP|Named Entity Recognition | [Code](https://github.com/guillaumegenthial/sequence_tagging) | [Article](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)|
 |Question Answering|QA-Net| [Code](https://github.com/NLPLearn/QANet) |[Article](https://medium.com/@minsangkim/implementing-question-answering-networks-with-cnns-5ae5f08e312b) , [QA-Net explained](https://towardsdatascience.com/how-the-current-best-question-answering-model-works-8bbacf375e2a)|
 |Question Answering| Using Sentence Embedding | [Code](https://github.com/aswalin/SQuAD)| [Article](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)|
@@ -50,7 +50,7 @@
 |NLP|summarize text and generate features from Github Issues | [Code](https://github.com/hamelsmu/Seq2Seq_Tutorial)|[Article](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)|
 
 
-## Other usefull articles to read 
+## More useful articles:
 
 * Machine Learning Algorithms: Which One to Choose for Your Problem - [link](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)
 * How to solve 90% of NLP problems: a step-by-step guide [link](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
