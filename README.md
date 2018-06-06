@@ -28,8 +28,7 @@
 
 | [Deeplearning.ai - by Andrew NG](https://www.deeplearning.ai/) | [Fast.ai - by Jeremy Howard](http://www.fast.ai/) |
 | --- | ---|
-|<ul><li> Neural Networks and Deep Learning </li><li> Improving Deep Neural Networks </li><li> Structured Machine Learning Projects</li> <li> Convolutional Neural Networks</li><li> Sequence Models </li></ul>|<ul><li> CNN's, RNN's </li><li> Image Recognition, Object Detection </li><li> NLP Classification, Embedding </li><li> Sequence Models, DarkNet </li><li> GAN, Segmentation with UNets</li></ul>
-|
+|<ul><li> Neural Networks and Deep Learning </li><li> Improving Deep Neural Networks </li><li> Structured Machine Learning Projects</li> <li> Convolutional Neural Networks</li><li> Sequence Models </li></ul>|<ul><li> CNN's, RNN's </li><li> Image Recognition, Object Detection </li><li> NLP Classification, Embedding </li><li> Sequence Models, DarkNet </li><li> GAN, Segmentation with UNets</li></ul>|
 ## Curated DeepLearning Projects
 
 |Type | Name | Code | Resources |
