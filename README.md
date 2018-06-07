@@ -36,9 +36,9 @@
 | Name | Language | Link |
 | ---  |   ---    | --- |
 |TensorFlow | Python | [tensorflow.org](https://tensorflow.org)|
-| PyTorch | Python | [pytorch.org](https://pytorch.org/)]|
+| PyTorch | Python | [pytorch.org](https://pytorch.org/)|
 | Keras (higher-level API) | Python | [keras.io](https://keras.io)|
-| TFLearn (higher-level API) | Python | [tflearn.org](http://tflearn.org)|
+| TFLearn (higher-level API) | Python | [![tflearn.org](images/tflearn.png =50x)](http://tflearn.org)|
 | TensorFlow.js | Java Script | [js.tensorflow.org](https://js.tensorflow.org/)|
 | Deeplearning4j | Java | [deeplearning4j.org](https://deeplearning4j.org/)|
 
