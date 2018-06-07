@@ -17,6 +17,7 @@
 #### Recurrent Neural Networks (RNN)
 * [RNN from scratch - Youtube](http://course.fast.ai/lessons/lesson6.html)
 * [RNN via a very simple toy example - Code + Walk through](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+* [How to build a Recurrent Neural Network in TensorFlow - Theory + Code](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
 * [Introduction to Sequence to Sequence Learning in Keras - Theory + Code](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 * [Understanding Long Short Term Memory (LSTM) - Theory](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
 
@@ -29,9 +30,22 @@
 | [Deeplearning.ai - by Andrew NG](https://www.deeplearning.ai/) | [Fast.ai - by Jeremy Howard](http://www.fast.ai/) |
 | --- | ---|
 |<ul><li> Neural Networks and Deep Learning </li><li> Improving Deep Neural Networks </li><li> Structured Machine Learning Projects</li> <li> Convolutional Neural Networks</li><li> Sequence Models </li></ul>|<ul><li> CNN's, RNN's </li><li> Image Recognition, Object Detection </li><li> NLP Classification, Embedding </li><li> Sequence Models, DarkNet </li><li> GAN, Segmentation with UNets</li></ul>|
+
+#### Frameworks
+
+| Name | Language |
+| ---  |   ---    |
+|TensorFlow | Python |
+| PyTorch | Python |
+| Keras (higher-level API) | Python |
+| TFLearn (higher-level API) | Python |
+| TensorFlow.js | Java Script |
+| Deeplearning4j | Java |
+
+
 ## Curated DeepLearning Projects
 
-|Type | Name | Code | Resources |
+|Type | Title | Code | Resources |
 | --- | --- | --- | --- |
 | Game Self Play | AlphaZero (Self Learning board games)	| [Code](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) |  [Article](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188) |
 |Hybrid NLP| Semantic Code Search (Searching for code in Natural Language) | [Code](https://github.com/hamelsmu/code_search) | [Article](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)|
@@ -49,16 +63,18 @@
 |NLP|Text Summerization (summarize text and generate features from Github Issues) | [Code](https://github.com/hamelsmu/Seq2Seq_Tutorial)|[Article](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)|
 
 
-## More useful articles:
+## Useful links:
 
 * Machine Learning Algorithms: Which One to Choose for Your Problem - [link](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)
 * How to solve 90% of NLP problems: a step-by-step guide [link](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * Minimal and clean examples of reinforcement learning algorithms - [link](https://github.com/rlcode/reinforcement-learning) 
+* Neural Models for Information Retrieval (Talk) - [link](https://www.youtube.com/watch?v=g1Pgo5yTIKg)
 * A brief and great explanation of [World Models](https://worldmodels.github.io/) - [link](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)
-* Artificial Intelligence and Games - [link](http://gameaibook.org/book.pdf) 
+* Artificial Intelligence and Games (Book) - [link](http://gameaibook.org/book.pdf) 
 * MolGAN (An implicit generative model for small molecular graphs) - A nice example of GAN + RL - [link](https://arxiv.org/pdf/1805.11973.pdf)
 * Attention to characters in Neural Sequence Models - [link](http://www.marekrei.com/blog/attending-to-characters-in-neural-sequence-labeling-models/)
 * Capsule Networks Explained - [link](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
+* AlphaGo Documentary (Movie) - [link](https://www.alphagomovie.com/)
 * A Tensorflow JS example demonstrating transfer learning - [link](https://js.tensorflow.org/tutorials/webcam-transfer-learning.html)
 * Ask me Anything (Dynamic Memory Network for basic Question Answering task) - [link](https://arxiv.org/pdf/1506.07285.pdf)
 * OneShot Concept Learning Through conversation interaction - [link](https://arxiv.org/pdf/1805.00462.pdf)
