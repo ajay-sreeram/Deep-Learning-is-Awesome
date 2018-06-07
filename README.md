@@ -35,12 +35,12 @@
 
 | Name | Language | Link |
 | ---  |   ---    | --- |
-|TensorFlow | Python | [tensorflow.org](https://tensorflow.org)|
-| PyTorch | Python | [pytorch.org](https://pytorch.org/)|
-| Keras (higher-level API) | Python | [keras.io](https://keras.io)|
-| TFLearn (higher-level API) | Python | [![tflearn.org](images/tflearn.png =50x)](http://tflearn.org)|
-| TensorFlow.js | Java Script | [js.tensorflow.org](https://js.tensorflow.org/)|
-| Deeplearning4j | Java | [deeplearning4j.org](https://deeplearning4j.org/)|
+|TensorFlow | Python | [<img src="images/tensorflow.png" alt="tensorflow.org" width="50px"/>](https://tensorflow.org)|
+| PyTorch | Python | [<img src="images/pytorch.jpg" alt="pytorch.org" width="50px"/>](https://pytorch.org/)|
+| Keras (higher-level API) | Python | [<img src="images/keras.jpg" alt="keras.io" width="50px"/>](https://keras.io)|
+| TFLearn (higher-level API) | Python | [<img src="images/tflearn.png" alt="tflearn.org" width="50px"/>](http://tflearn.org)|
+| TensorFlow.js | Java Script | [<img src="images/tensorflowjs.png" alt="js.tensorflow.org" width="50px"/>](https://js.tensorflow.org/)|
+| Deeplearning4j | Java | [<img src="images/deeplearning4j.png" alt="deeplearning4j.org" width="50px"/>](https://deeplearning4j.org/)|
 
 
 ## Curated DeepLearning Projects
