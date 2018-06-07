@@ -65,16 +65,18 @@
 
 ## Useful links:
 
-* Machine Learning Algorithms: Which One to Choose for Your Problem - [link](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)
-* How to solve 90% of NLP problems: a step-by-step guide [link](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
-* Minimal and clean examples of reinforcement learning algorithms - [link](https://github.com/rlcode/reinforcement-learning) 
-* Neural Models for Information Retrieval (Talk) - [link](https://www.youtube.com/watch?v=g1Pgo5yTIKg)
-* A brief and great explanation of [World Models](https://worldmodels.github.io/) - [link](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)
-* Artificial Intelligence and Games (Book) - [link](http://gameaibook.org/book.pdf) 
-* MolGAN (An implicit generative model for small molecular graphs) - A nice example of GAN + RL - [link](https://arxiv.org/pdf/1805.11973.pdf)
-* Attention to characters in Neural Sequence Models - [link](http://www.marekrei.com/blog/attending-to-characters-in-neural-sequence-labeling-models/)
-* Capsule Networks Explained - [link](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
-* AlphaGo Documentary (Movie) - [link](https://www.alphagomovie.com/)
-* A Tensorflow JS example demonstrating transfer learning - [link](https://js.tensorflow.org/tutorials/webcam-transfer-learning.html)
-* Ask me Anything (Dynamic Memory Network for basic Question Answering task) - [link](https://arxiv.org/pdf/1506.07285.pdf)
-* OneShot Concept Learning Through conversation interaction - [link](https://arxiv.org/pdf/1805.00462.pdf)
+| Description | Link |
+| --- | --- |
+| Machine Learning Algorithms: Which One to Choose for Your Problem | [Blog](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c) |
+| How to solve 90% of NLP problems: a step-by-step guide | [Blog](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) |
+| Minimal and clean examples of reinforcement learning algorithms | [Code](https://github.com/rlcode/reinforcement-learning) |
+| Neural Models for Information Retrieval | [Talk](https://www.youtube.com/watch?v=g1Pgo5yTIKg) |
+| A brief and great explanation of [World Models](https://worldmodels.github.io/) | [Blog](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)|
+| Artificial Intelligence and Games | [Book](http://gameaibook.org/book.pdf) |
+| MolGAN (An implicit generative model for small molecular graphs) - A nice example of GAN + RL | [Paper](https://arxiv.org/pdf/1805.11973.pdf)|
+| Attention to characters in Neural Sequence Models | [Blog](http://www.marekrei.com/blog/attending-to-characters-in-neural-sequence-labeling-models/)|
+| Capsule Networks Explained | [Blog](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)|
+| AlphaGo Documentary | [Movie](https://www.alphagomovie.com/)|
+| A Tensorflow JS example demonstrating transfer learning | [Code](https://js.tensorflow.org/tutorials/webcam-transfer-learning.html)|
+| Ask me Anything (Dynamic Memory Network for basic Question Answering task) | [Paper](https://arxiv.org/pdf/1506.07285.pdf)|
+| OneShot Concept Learning Through conversation interaction | [Paper](https://arxiv.org/pdf/1805.00462.pdf)|
