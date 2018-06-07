@@ -33,14 +33,14 @@
 
 #### Frameworks
 
-| Name | Language |
-| ---  |   ---    |
-|TensorFlow | Python |
-| PyTorch | Python |
-| Keras (higher-level API) | Python |
-| TFLearn (higher-level API) | Python |
-| TensorFlow.js | Java Script |
-| Deeplearning4j | Java |
+| Name | Language | Link |
+| ---  |   ---    | --- |
+|TensorFlow | Python | [tensorflow.org](https://tensorflow.org)|
+| PyTorch | Python | [pytorch.org](https://pytorch.org/)]|
+| Keras (higher-level API) | Python | [keras.io](https://keras.io)|
+| TFLearn (higher-level API) | Python | [tflearn.org](http://tflearn.org)|
+| TensorFlow.js | Java Script | [js.tensorflow.org](https://js.tensorflow.org/)|
+| Deeplearning4j | Java | [deeplearning4j.org](https://deeplearning4j.org/)|
 
 
 ## Curated DeepLearning Projects
@@ -57,7 +57,7 @@
 |NLP|URLNet (Malicious URL Detection)| [Code](https://github.com/Antimalweb/URLNet)|[Paper](https://arxiv.org/abs/1802.03162)|
 |Image|UNet based nucleus detection|[Code](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118)|[Paper](https://arxiv.org/pdf/1611.08303.pdf)|
 |NLP|Named Entity Recognition (Tagging every word in a sentence) | [Code](https://github.com/guillaumegenthial/sequence_tagging) | [Article](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)|
-|Question Answering|QA-Net(CNN+Attention based QA Model)| [Code](https://github.com/NLPLearn/QANet) |[Article](https://medium.com/@minsangkim/implementing-question-answering-networks-with-cnns-5ae5f08e312b) , [QA-Net explained](https://towardsdatascience.com/how-the-current-best-question-answering-model-works-8bbacf375e2a)|
+|Question Answering|QA-Net(CNN+Attention based QA Model)| [Code](https://github.com/NLPLearn/QANet) |[Article](https://medium.com/@minsangkim/implementing-question-answering-networks-with-cnns-5ae5f08e312b), [QA-Net explained](https://towardsdatascience.com/how-the-current-best-question-answering-model-works-8bbacf375e2a)|
 |Question Answering| QA Using Sentence Embedding | [Code](https://github.com/aswalin/SQuAD)| [Article](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)|
 |Question Answering| R-Net (RNN+Attention based QA Model) | [Code](https://github.com/YerevaNN/R-NET-in-Keras/)|[Explaining R-Net](https://codeburst.io/understanding-r-net-microsofts-superhuman-reading-ai-23ff7ededd96), [Article](http://yerevann.github.io/2017/08/25/challenges-of-reproducing-r-net-neural-network-using-keras/)|
 |NLP|Text Summerization (summarize text and generate features from Github Issues) | [Code](https://github.com/hamelsmu/Seq2Seq_Tutorial)|[Article](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)|
