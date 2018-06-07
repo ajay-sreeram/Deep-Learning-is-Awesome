@@ -45,10 +45,10 @@
 
 ## Curated DeepLearning Projects
 
-|Type | Title | Code | Resources |
-| --- | --- | --- | --- |
-| Game Self Play | AlphaZero (Self Learning board games)	| [Code](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) |  [Article](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188) |
-|Hybrid NLP| Semantic Code Search (Searching for code in Natural Language) | [Code](https://github.com/hamelsmu/code_search) | [Article](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)|
+|Type | Title | Code | Resources | CheatSheet |
+| --- | --- | --- | --- | --- |
+| Game Self Play | AlphaZero (Self Learning board games)	| [Code](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) |  [Article](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188) | [<img src="cheatsheets/Alpha_Zero.png" alt="Alpha Zero" width="50px"/>](cheatsheets/Alpha_Zero.png) |
+|Hybrid NLP| Semantic Code Search (Searching for code in Natural Language) | [Code](https://github.com/hamelsmu/code_search) | [Article](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)| [<img src="cheatsheets/Semantic_Code_Search.jpg" alt="Semantic Code Search" width="50px"/>](cheatsheets/Semantic_Code_Search.jpg)|
 |NLP|Attention is all we need (Language Translation)|[Code](https://github.com/harvardnlp/annotated-transformer)| [Walk through](http://nlp.seas.harvard.edu/2018/04/03/attention.html)|
 |Image+Text Processing|Pix2Code (Generating UI code from screenshot/handdrawn image)| [Code](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/) | [Paper](https://arxiv.org/abs/1705.07962) and its [Code](https://github.com/tonybeltramelli/pix2code) |
 |Image Processing|Deep Steganography (Hidding an image in another image)|[Code](https://github.com/harveyslash/Deep-Steganography)|[Paper](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography)|
