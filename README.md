@@ -42,7 +42,7 @@
 | TensorFlow.js | Java Script | [<img src="images/tensorflowjs.png" alt="js.tensorflow.org" width="50px"/>](https://js.tensorflow.org/)|
 | Deeplearning4j | Java | [<img src="images/deeplearning4j.png" alt="deeplearning4j.org" width="50px"/>](https://deeplearning4j.org/)|
 
-
+Steganography
 ## Curated DeepLearning Projects
 
 |Type | Title | Code | Resources | CheatSheet |
@@ -51,7 +51,7 @@
 |Hybrid NLP| Semantic Code Search (Searching for code in Natural Language) | [Code](https://github.com/hamelsmu/code_search) | [Article](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)| [<img src="cheatsheets/Semantic_Code_Search.jpg" alt="Semantic Code Search" width="50px"/>](cheatsheets/Semantic_Code_Search.jpg)|
 |NLP|Attention is all we need (Language Translation)|[Code](https://github.com/harvardnlp/annotated-transformer)| [Walk through](http://nlp.seas.harvard.edu/2018/04/03/attention.html)|
 |Image+Text Processing|Pix2Code (Generating UI code from screenshot/handdrawn image)| [Code](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/) | [Paper](https://arxiv.org/abs/1705.07962) and its [Code](https://github.com/tonybeltramelli/pix2code) |
-|Image Processing|Deep Steganography (Hidding an image in another image)|[Code](https://github.com/harveyslash/Deep-Steganography)|[Paper](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography)|
+|Image Processing|Deep Steganography (Hidding an image in another image)|[Code](https://github.com/harveyslash/Deep-Steganography)|[Paper](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography)|[<img src="cheatsheets/Deep_Steganography.jpg" alt="Deep Steganography" width="50px"/>](cheatsheets/Deep_Steganography.jpg)|
 |NLP|Spell Checker using word embedding | [Code](https://github.com/er214/spellchecker) | [Article](https://blog.usejournal.com/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26)|
 |NLP|Learn to Write Programs (Generating code using sample Input/Output's)|[Code](https://github.com/dkamm/deepcoder)|[Paper](https://openreview.net/pdf?id=ByldLrqlx)|
 |NLP|URLNet (Malicious URL Detection)| [Code](https://github.com/Antimalweb/URLNet)|[Paper](https://arxiv.org/abs/1802.03162)|
