@@ -42,7 +42,6 @@
 | TensorFlow.js | Java Script | [<img src="images/tensorflowjs.png" alt="js.tensorflow.org" width="50px"/>](https://js.tensorflow.org/)|
 | Deeplearning4j | Java | [<img src="images/deeplearning4j.png" alt="deeplearning4j.org" width="50px"/>](https://deeplearning4j.org/)|
 
-Steganography
 ## Curated DeepLearning Projects
 
 |Type | Title | Code | Resources | CheatSheet |
