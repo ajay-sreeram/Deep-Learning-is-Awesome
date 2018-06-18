@@ -27,9 +27,9 @@
 
 #### Courses
 
-| [Deeplearning.ai - by Andrew NG](https://www.deeplearning.ai/) | [Fast.ai - by Jeremy Howard](http://www.fast.ai/) |
-| --- | ---|
-|<ul><li> Neural Networks and Deep Learning </li><li> Improving Deep Neural Networks </li><li> Structured Machine Learning Projects</li> <li> Convolutional Neural Networks</li><li> Sequence Models </li></ul>|<ul><li> CNN's, RNN's </li><li> Image Recognition, Object Detection </li><li> NLP Classification, Embedding </li><li> Sequence Models, DarkNet </li><li> GAN, Segmentation with UNets</li></ul>|
+| [Deeplearning.ai - by Andrew NG](https://www.deeplearning.ai/) | [Fast.ai - by Jeremy Howard](http://www.fast.ai/) | [NPTEL(DL) - by Mitesh M. Khapra](https://onlinecourses.nptel.ac.in/noc18_cs41/preview)|
+| --- | ---| --- |
+|<ul><li> Neural Networks and Deep Learning </li><li> Improving Deep Neural Networks </li><li> Structured Machine Learning Projects</li> <li> Convolutional Neural Networks</li><li> Sequence Models </li></ul>|<ul><li> CNN's, RNN's </li><li> Image Recognition, Object Detection </li><li> NLP Classification, Embedding </li><li> Sequence Models, DarkNet </li><li> GAN, Segmentation with UNets</li></ul>|<ul><li>MLP's, FeedForward Network</li><li>Backpropagation, Gradient Descent</li><li>Principal Component Analysis, Auto encoders</li><li>CNN's, RNN's</li><li>Regularization, Dataset augmentation, Attention Mechanism</li></ul>|
 
 #### Frameworks
 
