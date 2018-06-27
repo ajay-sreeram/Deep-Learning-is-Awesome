@@ -6,6 +6,7 @@
 * [Neural Networks Demystified - Youtube](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [A Tiny Toy Neural Network from Scratch - Code + Walk Through](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Mastering the core concepts of neural networks - Very well explained Theory + Code](http://neuralnetworksanddeeplearning.com/chap1.html)
+* [Backpropagation explained via scrollytelling - Animated Explaination](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 * [How Backpropogation works? - Theory + Code](http://neuralnetworksanddeeplearning.com/chap2.html)
 * [Gradient Descent via a very simple toy example - Code + Walk Through](http://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [Deep Neural Network in few lines of code using library - Explaination + Code + Walk through](https://blog.floydhub.com/my-first-weekend-of-deep-learning/)
