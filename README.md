@@ -6,10 +6,10 @@
 * [Neural Networks Demystified - Youtube](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [A Tiny Toy Neural Network from Scratch - Code + Walk Through](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Mastering the core concepts of neural networks - Very well explained Theory + Code](http://neuralnetworksanddeeplearning.com/chap1.html)
-* [Backpropagation explained via scrollytelling - Animated Explaination](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
+* [Backpropagation explained via scrollytelling - Animated Explanation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 * [How Backpropogation works? - Theory + Code](http://neuralnetworksanddeeplearning.com/chap2.html)
 * [Gradient Descent via a very simple toy example - Code + Walk Through](http://iamtrask.github.io/2015/07/27/python-network-part2/)
-* [Deep Neural Network in few lines of code using library - Explaination + Code + Walk through](https://blog.floydhub.com/my-first-weekend-of-deep-learning/)
+* [Deep Neural Network in few lines of code using library - Explanation + Code + Walk through](https://blog.floydhub.com/my-first-weekend-of-deep-learning/)
 
 #### Convolution Neural Network (CNN)
 * [CNN from Scratch - Theory + Code ](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks)
@@ -21,6 +21,7 @@
 * [How to build a Recurrent Neural Network in TensorFlow - Theory + Code](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
 * [Introduction to Sequence to Sequence Learning in Keras - Theory + Code](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 * [Understanding Long Short Term Memory (LSTM) - Theory](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
+* [Seq2seq models with attention - Animated Explanation](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 #### General Advisorial Networks (GAN)
 * [GAN Explained - Code + Explanation](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
