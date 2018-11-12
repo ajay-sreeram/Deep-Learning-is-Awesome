@@ -84,3 +84,4 @@
 | A Tensorflow JS example demonstrating transfer learning | [Code](https://js.tensorflow.org/tutorials/webcam-transfer-learning.html)|
 | Ask me Anything (Dynamic Memory Network for basic Question Answering task) | [Paper](https://arxiv.org/pdf/1506.07285.pdf)|
 | OneShot Concept Learning Through conversation interaction | [Paper](https://arxiv.org/pdf/1805.00462.pdf)|
+| Understanding feature engineering | [Blog](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)|
