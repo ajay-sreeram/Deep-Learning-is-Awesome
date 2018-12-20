@@ -53,6 +53,7 @@
 |NLP|Attention is all we need (Language Translation)|[Code](https://github.com/harvardnlp/annotated-transformer)| [Walk through](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [Explanation](https://jalammar.github.io/illustrated-transformer/)|
 |Image+Text Processing|Pix2Code (Generating UI code from screenshot/handdrawn image)| [Code](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/) | [Paper](https://arxiv.org/abs/1705.07962) and its [Code](https://github.com/tonybeltramelli/pix2code) | [<img src="cheatsheets/Pix2Code.jpg" alt="Pix2Code" width="50px"/>](cheatsheets/Pix2Code.jpg)|
 |Image Processing|Deep Steganography (Hidding an image in another image)|[Code](https://github.com/harveyslash/Deep-Steganography)|[Paper](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography), [Blog](https://buzzrobot.com/hiding-images-using-ai-deep-steganography-b7726bd58b06)|[<img src="cheatsheets/Deep_Steganography.jpg" alt="Deep Steganography" width="50px"/>](cheatsheets/Deep_Steganography.jpg)|
+|Image+Audio processing|Music2Dance: Generating Dance steps for a given music|[Code](https://github.com/ajay-sreeram/Music2Dance)|[Results](https://www.youtube.com/watch?v=Db79bIJvxdw)|[<img src="cheatsheets/Music2Dance.jpg" alt="Music2Dance" width="50px"/>](cheatsheets/Music2Dance.jpg)|
 |NLP|Spell Checker using word embedding | [Code](https://github.com/er214/spellchecker) | [Article](https://blog.usejournal.com/a-simple-spell-checker-built-from-word-vectors-9f28452b6f26)|
 |NLP|Learn to Write Programs (Generating code using sample Input/Output's)|[Code](https://github.com/dkamm/deepcoder)|[Paper](https://openreview.net/pdf?id=ByldLrqlx)|
 |NLP|URLNet (Malicious URL Detection)| [Code](https://github.com/Antimalweb/URLNet)|[Paper](https://arxiv.org/abs/1802.03162)|
@@ -64,7 +65,6 @@
 |NLP|Text Summerization (summarize text and generate features from Github Issues) | [Code](https://github.com/hamelsmu/Seq2Seq_Tutorial)|[Article](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)|
 |Code fix|DeepFix: Fixing Common C Language Errors by Deep Learning|[Code](http://iisc-seal.net/deepfix)|[Paper](http://www.iisc-seal.net/publications/aaai17.pdf), [Paper2](https://arxiv.org/pdf/1801.10467)|
 |Time series|Playing trading games with deep reinforcement learning|[Code](https://github.com/golsun/deep-RL-time-series)|[Paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)|
-|Seq2Seq|Music2Dance: Generating Dance steps for a given music|[Code](https://github.com/ajay-sreeram/Music2Dance)|[Results](https://www.youtube.com/watch?v=Db79bIJvxdw)|[<img src="cheatsheets/Music2Dance.jpg" alt="Music2Dance" width="50px"/>](cheatsheets/Music2Dance.jpg)|
 
 
 ## Useful links:
