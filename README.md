@@ -65,6 +65,7 @@
 |NLP|Text Summerization (summarize text and generate features from Github Issues) | [Code](https://github.com/hamelsmu/Seq2Seq_Tutorial)|[Article](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)|
 |Code fix|DeepFix: Fixing Common C Language Errors by Deep Learning|[Code](http://iisc-seal.net/deepfix)|[Paper](http://www.iisc-seal.net/publications/aaai17.pdf), [Paper2](https://arxiv.org/pdf/1801.10467)|
 |Time series|Playing trading games with deep reinforcement learning|[Code](https://github.com/golsun/deep-RL-time-series)|[Paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)|
+|NLP|InferSent - Sentence Embedding with importance of each word|[Code](https://github.com/facebookresearch/InferSent)|[Paper](https://arxiv.org/abs/1705.02364)|
 
 
 ## Useful links:
