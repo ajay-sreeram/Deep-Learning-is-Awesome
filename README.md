@@ -89,3 +89,4 @@
 | Understanding feature engineering | [Blog](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)|
 | The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) | [Blog](https://jalammar.github.io/illustrated-bert/)|
 | Transformers from scratch |[Blog](http://peterbloem.nl/blog/transformers)|
+| A distilled version of BERT | [Blog](https://medium.com/huggingface/distilbert-8cf3380435b5)|
